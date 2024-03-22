@@ -23,4 +23,8 @@ a {
 
 p {
   font-family: "Courier New", Courier, monospace;
+}
+
+#message, #message1 {
+  color: #d63384;
 }/*# sourceMappingURL=style.css.map */
